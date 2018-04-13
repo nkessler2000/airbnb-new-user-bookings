@@ -6,7 +6,7 @@ Files in this repo:
 
 - `README.md` - This file
 - `Airbnb - Predictive Modeling - Report` - Report detailing findings. Word and PDF formats
-- `Airbnb - Predictive Modeling - Report` - Slides summarizing findings. PowerPoint and PDF formats
+- `Airbnb - Predictive Modeling - Slides` - Slides summarizing findings. PowerPoint and PDF formats
 - `ds_functions.py` - Common functions used in analysis.
 - `h2o_cust_functions.py` - Custom functions for working with H2O data objects
 - `Airbnb EDA.ipynb` - Jupyter Notebook with Exploratory Data Analysis
