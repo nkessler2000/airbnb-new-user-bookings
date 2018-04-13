@@ -1,3 +1,5 @@
+import numpy as np 
+
 def perf_to_cm_array(perf):
     """Takes an h2o model performance object and returns a numpy array
 	with the confusion matrix)"""
